@@ -10,4 +10,8 @@
 
 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary.
+#### Below are my three business recommendations to the CEO.
+- Give drivers an incentive to work in Rural areas so they can make more money and increase Total Fares.
+- Continue Suburban ride-share becuse it has the second highest Total Fares.
+- Increase the amount of drivers in Rural areas to increase total rides.
